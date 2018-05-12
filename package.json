@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:domestic-invoice/backend.git",
   "author": "Nikhil Arora <narora200@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.13.1"
+  }
 }
