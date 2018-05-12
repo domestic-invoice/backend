@@ -1,0 +1,8 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:domestic-invoice/backend.git",
+  "author": "Nikhil Arora <narora200@gmail.com>",
+  "license": "MIT"
+}
